@@ -1,6 +1,6 @@
-# Problem-Set-2
+# Problem Set 2
 
-_Remember to submit a single rendered PDF or HTML file (either from .Rmd or a Jupyter Notebook) via GitHub by Saturday at 12 noon._
+_Remember to submit a single rendered PDF or HTML file (either from .Rmd or a Jupyter Notebook) via GitHub by **Saturday at 12 noon.**_
 
 
 ### Computation
